@@ -3,7 +3,6 @@ import 'package:weather_application/constants/app_colors.dart';
 import 'package:weather_application/screens/forecast_report_screen.dart';
 import 'package:weather_application/screens/search_screen.dart';
 import 'package:weather_application/screens/settings_screen.dart';
-import 'package:weather_application/screens/weather_detail_screen.dart';
 import 'package:weather_application/screens/weather_screen/weather_screen.dart';
 
 class HomeScreen extends StatefulWidget {
